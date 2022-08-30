@@ -8,10 +8,15 @@
 ### Technologies
 [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)](https://www.latex-project.org/)    
+[![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white)](https://www.latex-project.org/)
+[![Shell](https://img.shields.io/static/v1?label=&message=Shell&color=4EAA25&logo=GNU%20Bash&logoColor=FFFFFF)](https://www.gnu.org/)   
 
 [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF)](https://flask.palletsprojects.com/en/2.1.x/)
-[![Shell](https://img.shields.io/static/v1?label=&message=Shell&color=4EAA25&logo=GNU%20Bash&logoColor=FFFFFF)](https://www.gnu.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+
+
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13)](https://inkscape.org/)
 [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
@@ -19,7 +24,9 @@
 [![PyCharm](https://img.shields.io/badge/pycharm-143?style=flat&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=flat&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
 <div align="center">
     <details>
         <summary><b>GitHub Metrics</b></summary>
