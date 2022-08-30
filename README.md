@@ -2,6 +2,9 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@derhahn85)
 [![GitHub followers](https://img.shields.io/github/followers/derhahn?label=Follow&style=social)](https://github.com/derhahn/?tab=follow)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/derhahn/)](https://www.linkedin.com/in/derhahn/)
+[![ProfileViews](https://komarev.com/ghpvc/?username=derhahn&color=red&style=flat)](https://komarev.com/ghpvc/?username=derhahn)
+
+
 <!--
 **derHahn/derHahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
