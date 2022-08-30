@@ -1,5 +1,3 @@
-### Jens Hahn
-Data Science | Software Development | Tech Teacher     
 [![GitHub followers](https://img.shields.io/github/followers/derhahn?label=Follow&style=social)](https://github.com/derhahn/?tab=follow)
 [![ProfileViews](https://komarev.com/ghpvc/?username=derhahn&color=red&style=flat)](https://komarev.com/ghpvc/?username=derhahn)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@derhahn85)
