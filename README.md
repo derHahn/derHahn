@@ -1,6 +1,5 @@
 [![GitHub followers](https://img.shields.io/github/followers/derhahn?label=Follow&style=social)](https://github.com/derhahn/?tab=follow)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/derhahn/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@derhahn85)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/derhahn)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=flat&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Jens-Hahn-3)
 
@@ -34,6 +33,6 @@
     <details>
         <summary><b>📊 GitHub Metrics</b></summary>
         <br>
-        <img src="https://metrics.lecoq.io/derhahn?template=classic&isocalendar=1&followup=1&tweets=1&achievements=1&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&achievements.ignored=follower%2C%20gister%2C%20member%2C%20forker%2C%20inspirer%2C%20influencer%2C%20worker&tweets.attachments=false&tweets.limit=2&tweets.user=derhahn&config.timezone=Europe">
+        <img src="https://metrics.lecoq.io/derhahn?template=classic&isocalendar=1&followup=1&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&config.timezone=Europe">
     </details>
 </div>
