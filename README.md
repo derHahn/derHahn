@@ -30,11 +30,3 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=black)](https://clickhouse.com/)
-
-<div align="center">
-    <details>
-        <summary><b>📊 GitHub Metrics</b></summary>
-        <br>
-        <img src="https://metrics.lecoq.io/derhahn?template=classic&isocalendar=1&followup=1&isocalendar.duration=half-year&followup.sections=repositories&followup.indepth=false&config.timezone=Europe">
-    </details>
-</div>
